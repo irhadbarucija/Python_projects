@@ -1,13 +1,13 @@
-Guess Number - Game 1.0
+Guess The Number - Game 1.0
 
 A classic terminal-based game where the player tries to guess a random number between 1–100.  
 Includes difficulty settings, input validation, and replay option.
 
 Project Information:
 
-- developer: irhadbarucija
-- project Type: Console-based game 
-- language: Python
+- Developer: irhadbarucija
+- Project Type: Console-based game 
+- Language: Python
 
 Features:
 
